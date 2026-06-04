@@ -5,7 +5,7 @@ So here is a simple, zero-API browser extension that automatically exposes hidde
 I'm a complete noob to this type of programming. So I enlisted the help of Gemini. Yay for trillion-dollar infrastructure, am I rite...
 
 ---
-## 💻 How to Install on Google Chrome (60 Seconds)
+## 💿🌐 How to Install on Google Chrome (60 Seconds)
 
 1. **Download the Extension:**
    * Click the green **Code** button at the top right of this page.
@@ -21,7 +21,7 @@ I'm a complete noob to this type of programming. So I enlisted the help of Gemin
 
 ---
 
-## 🦊 How to Install on Mozilla Firefox (60 Seconds)
+## 🔥🦊 How to Install on Mozilla Firefox (60 Seconds)
 
 1. **Download the Extension:**
    * Click the green **Code** button at the top right of this page.
