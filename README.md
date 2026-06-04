@@ -1,5 +1,5 @@
 # Domain.com.au Price Unwithholder
-Luckily for you and me, Domain.com.au does not truly withhold sold prices on their listings. It is right there in the page source if you look for it. 
+Luckily for you and me, Domain.com.au does not truly withhold sold prices of their property listings. Often, it can be found in the page source. 
 So here is a simple, zero-API browser extension that automatically exposes hidden 'Price Withheld' sale values and prior agent guide prices ("exactPrice" and "exactPriceV2") directly on Domain property listings.
 
 I'm a complete noob to this type of programming. So I enlisted the help of Gemini. Yay for trillion-dollar infrastructure, am I rite...
@@ -39,4 +39,4 @@ I'm a complete noob to this type of programming. So I enlisted the help of Gemin
 
 ## 💡 How to Use
 Simply browse Domain.com.au. When you click on any sold property that says "Price Withheld" from your search feed, the extension will get to work. It tries to find 'exactPrice' (selling price) and 'exactPriceV2' (last agent guidance).
-If available, a small `🔍` icon will appear next to the 'Price Withheld text' - Click to permanently replace it with the sold price and last guidance. If unavailable, a red cross will appear :'(. Better luck next time!
+If available, a small `🔍` icon will appear next to the 'Price Withheld text' - Click it to permanently show the sold price and last guidance values. If unavailable, a red cross will appear :'(. Better luck next time!
