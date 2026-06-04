@@ -38,5 +38,4 @@ I'm a complete noob to this type of programming. So I enlisted the help of Gemin
 ---
 
 ## 💡 How to Use
-Simply browse Domain.com.au. When you click on any sold property that says "Price Withheld" from your search feed, the extension will get to work. It tries to find 'exactPrice' (selling price) and 'exactPriceV2' (last agent guidance).
-If available, a small `🔍` icon will appear next to the 'Price Withheld text' - Click it to permanently show the sold price and last guidance values. If unavailable, a red cross will appear :'(. Better luck next time!
+Simply browse Domain.com.au. When you click on any sold property that says "Price Withheld" from your search feed, the extension will get to work. If available, a small `🔍` icon will appear next to the 'Price Withheld text' - Click it to permanently show the sold price and last guidance values. If unavailable, a red cross will appear :'(. Better luck next time!
