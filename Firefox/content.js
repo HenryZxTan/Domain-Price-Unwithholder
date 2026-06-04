@@ -1,3 +1,12 @@
+// Domain Price Unwithholder
+// @version 1.0
+// @author HenryZxTan
+// @homepage https://github.com/HenryZxTan/Domain-Price-Unwithholder
+// @license MIT
+// Copyright (c) 2026 Henry Tan
+// Free to use, modify, and distribute with attribution.
+
+
 // 1. Helper function to scan scripts for a specific JSON key using regex
 function extractPriceFromSource(key) {
   const scripts = document.querySelectorAll('script');
