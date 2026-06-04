@@ -3,7 +3,7 @@
   "name": "Domain Price Unwithholder",
   "version": "1.0",
   "author": "HenryZxTan",
-  "homepage_url": "https://github.com/HenryZxTan/Domain-Price-Unwithholder"
+  "homepage_url": "https://github.com/HenryZxTan/Domain-Price-Unwithholder",
   "description": "Reveals hidden 'Price Withheld' and agent guide values on Domain.com.au seamless from page source.",
   "permissions": [],
   "content_scripts": [

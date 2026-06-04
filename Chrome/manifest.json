@@ -3,7 +3,7 @@
   "name": "Domain Price Unwithholder",
   "version": "1.0",
   "author": "HenryZxTan",
-  "homepage_url": "https://github.com/HenryZxTan/Domain-Price-Unwithholder"
+  "homepage_url": "https://github.com/HenryZxTan/Domain-Price-Unwithholder",
   "description": "Reveals the hidden 'Price Withheld' values on Domain.com.au seamlessly using page data.",
   "permissions": [],
   "content_scripts": [
