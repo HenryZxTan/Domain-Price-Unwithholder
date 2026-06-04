@@ -16,6 +16,9 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "domain-price-unwithholder@HenryZxTan.local"
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   }
 }
