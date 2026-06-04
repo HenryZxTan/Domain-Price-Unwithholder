@@ -1,6 +1,6 @@
 # Domain.com.au Price Unwithholder
 Luckily for you and me, Domain.com.au does not truly withhold sold prices of their property listings. Often, it can be found in the page source. 
-So here is a simple, zero-API browser extension that automatically exposes hidden 'Price Withheld' sale values and prior agent guide prices ("exactPrice" and "exactPriceV2") directly on Domain property listings.
+So here is a simple, zero-API browser extension that automatically exposes hidden 'Price Withheld' sale values and prior agent guide prices directly on Domain property listings.
 
 I'm a complete noob to this type of programming. So I enlisted the help of Gemini. Yay for trillion-dollar infrastructure, am I rite...
 
