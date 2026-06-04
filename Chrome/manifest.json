@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Domain Price Unwithholder",
+  "version": "1.0",
+  "description": "Reveals the hidden 'Price Withheld' values on Domain.com.au seamlessly using page data.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["*://*.domain.com.au/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
