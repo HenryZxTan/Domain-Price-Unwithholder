@@ -2,6 +2,8 @@
   "manifest_version": 3,
   "name": "Domain Price Unwithholder",
   "version": "1.0",
+  "author": "HenryZxTan",
+  "homepage_url": "https://github.com/HenryZxTan/Domain-Price-Unwithholder"
   "description": "Reveals hidden 'Price Withheld' and agent guide values on Domain.com.au seamless from page source.",
   "permissions": [],
   "content_scripts": [
@@ -13,7 +15,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "domain-price-unwithholder@local"
+      "id": "domain-price-unwithholder@HenryZxTan.local"
     }
   }
 }
